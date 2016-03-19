@@ -9,4 +9,3 @@ public class Calculate {
 		System.out.println("Sum " + summ);
 	}
 }
-/**Доброго дня
